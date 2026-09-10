@@ -101,9 +101,9 @@
         "cantidad": "150 gr"
       },
       {
-        "nombre": "Aceite de oliva",
+        "nombre": "Queso havarti",
         "macro": "GR",
-        "cantidad": "10 gr"
+        "cantidad": "30 gr"
       }
     ]
   },
@@ -128,9 +128,9 @@
         "cantidad": "140 gr"
       },
       {
-        "nombre": "Aceite de oliva",
+        "nombre": "Queso mozzarella",
         "macro": "GR",
-        "cantidad": "10 gr"
+        "cantidad": "40 gr"
       }
     ]
   },
@@ -155,14 +155,9 @@
         "cantidad": "1 lata grande (100-120 gr escurrido)"
       },
       {
-        "nombre": "Pechuga de pavo",
-        "macro": "PR",
-        "cantidad": "60 gr"
-      },
-      {
-        "nombre": "Aceite de oliva",
+        "nombre": "Frutos secos / Semillas de chía",
         "macro": "GR",
-        "cantidad": "10 gr"
+        "cantidad": "15 gr"
       }
     ]
   },
@@ -472,9 +467,14 @@
         "cantidad": "40 gr"
       },
       {
-        "nombre": "Frutos secos / Semillas de chía",
+        "nombre": "Pechuga de pavo",
+        "macro": "PR",
+        "cantidad": "60 gr"
+      },
+      {
+        "nombre": "Frutos secos",
         "macro": "GR",
-        "cantidad": "15 gr"
+        "cantidad": "10 gr"
       }
     ]
   },
@@ -500,6 +500,134 @@
       },
       {
         "nombre": "Frutos secos",
+        "macro": "GR",
+        "cantidad": "10 gr"
+      }
+    ]
+  },
+  {
+    "id": "merienda-8",
+    "comida": "MERIENDA",
+    "opcion": 8,
+    "items": [
+      {
+        "nombre": "Fruta",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Avena",
+        "macro": "HC",
+        "cantidad": "30 gr"
+      },
+      {
+        "nombre": "Leche de avena",
+        "macro": "HC",
+        "cantidad": "150 ml"
+      },
+      {
+        "nombre": "Proteína de guisante",
+        "macro": "PR",
+        "cantidad": "20 gr"
+      },
+      {
+        "nombre": "Crema de cacahuete",
+        "macro": "GR",
+        "cantidad": "10 gr"
+      }
+    ]
+  },
+  {
+    "id": "merienda-9",
+    "comida": "MERIENDA",
+    "opcion": 9,
+    "items": [
+      {
+        "nombre": "Fruta",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Kéfir",
+        "macro": "HC",
+        "cantidad": "200 gr"
+      },
+      {
+        "nombre": "Avena",
+        "macro": "HC",
+        "cantidad": "30 gr"
+      },
+      {
+        "nombre": "Proteína de guisante",
+        "macro": "PR",
+        "cantidad": "20 gr"
+      },
+      {
+        "nombre": "Semillas de chía",
+        "macro": "GR",
+        "cantidad": "10 gr"
+      }
+    ]
+  },
+  {
+    "id": "merienda-10",
+    "comida": "MERIENDA",
+    "opcion": 10,
+    "items": [
+      {
+        "nombre": "Fruta",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Cereales cornflakes 0%",
+        "macro": "HC",
+        "cantidad": "30 gr"
+      },
+      {
+        "nombre": "Queso fresco batido",
+        "macro": "HC",
+        "cantidad": "200 gr"
+      },
+      {
+        "nombre": "Proteína de guisante",
+        "macro": "PR",
+        "cantidad": "20 gr"
+      },
+      {
+        "nombre": "Crema de cacahuete",
+        "macro": "GR",
+        "cantidad": "10 gr"
+      }
+    ]
+  },
+  {
+    "id": "merienda-11",
+    "comida": "MERIENDA",
+    "opcion": 11,
+    "items": [
+      {
+        "nombre": "Frutos rojos",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Granola",
+        "macro": "HC",
+        "cantidad": "30 gr"
+      },
+      {
+        "nombre": "Queso fresco batido",
+        "macro": "HC",
+        "cantidad": "200 gr"
+      },
+      {
+        "nombre": "Proteína de guisante",
+        "macro": "PR",
+        "cantidad": "20 gr"
+      },
+      {
+        "nombre": "Chocolate 85%",
         "macro": "GR",
         "cantidad": "10 gr"
       }
@@ -580,9 +708,9 @@
         "cantidad": "130 gr"
       },
       {
-        "nombre": "Frutos secos / Semillas de chía",
+        "nombre": "Queso havarti",
         "macro": "GR",
-        "cantidad": "10 gr"
+        "cantidad": "30 gr"
       }
     ]
   },
@@ -607,9 +735,9 @@
         "cantidad": "150 gr"
       },
       {
-        "nombre": "Aceite de oliva",
+        "nombre": "Queso cottage",
         "macro": "GR",
-        "cantidad": "10 gr"
+        "cantidad": "50 gr"
       }
     ]
   },
@@ -661,7 +789,7 @@
         "cantidad": "100 gr"
       },
       {
-        "nombre": "Frutos secos",
+        "nombre": "Aceite de oliva",
         "macro": "GR",
         "cantidad": "10 gr"
       }
@@ -710,7 +838,7 @@
         "cantidad": "250 gr"
       },
       {
-        "nombre": "Verdura",
+        "nombre": "Verduras",
         "macro": "HC",
         "cantidad": "al gusto"
       },
