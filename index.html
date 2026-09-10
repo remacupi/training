@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Mis menús y entrenos</title>
+    <meta
+      name="description"
+      content="Filtra tus menús por varios ingredientes y consulta tus entrenos con series, repeticiones y vídeos."
+    />
+    <link rel="stylesheet" href="estilos.css" />
+  </head>
+  <body>
+    <header class="cabecera">
+      <h1>Mis menús y entrenos</h1>
+      <nav class="pestanas">
+        <button class="pestana activa" data-vista="menus">Menús</button>
+        <button class="pestana" data-vista="entrenos">Entrenos</button>
+      </nav>
+    </header>
+
+    <main>
+      <section id="vista-menus">
+        <p class="ayuda">
+          Elige uno o varios ingredientes. Solo se muestran los menús que llevan
+          <strong>todos</strong> los ingredientes elegidos.
+        </p>
+
+        <div class="caja-filtro">
+          <input id="buscador" type="search" placeholder="Buscar ingrediente…" />
+          <div id="elegidos" class="elegidos"></div>
+          <div id="ingredientes" class="ingredientes"></div>
+          <button id="limpiar" class="boton-secundario">Quitar filtros</button>
+        </div>
+
+        <p id="resumen" class="resumen"></p>
+        <div id="lista-menus" class="rejilla"></div>
+      </section>
+
+      <section id="vista-entrenos" hidden>
+        <div id="lista-entrenos" class="rejilla"></div>
+        <div id="detalle-entreno"></div>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

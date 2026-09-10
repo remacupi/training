@@ -1,0 +1,231 @@
+:root {
+  --fondo: #fdfaf4;
+  --texto: #2f2721;
+  --suave: #6f6357;
+  --tarjeta: #ffffff;
+  --borde: #e8e0d3;
+  --principal: #8a4a24;
+  --hc: #e8f2d8;
+  --hc-t: #4a6b21;
+  --pr: #fbe1de;
+  --pr-t: #973c34;
+  --gr: #fbeed3;
+  --gr-t: #8a6420;
+  --radio: 14px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "DM Sans", system-ui, -apple-system, sans-serif;
+  background: var(--fondo);
+  color: var(--texto);
+}
+
+.cabecera {
+  padding: 24px 16px 0;
+  max-width: 1040px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: Georgia, serif;
+  font-size: 1.9rem;
+  margin: 0 0 16px;
+}
+
+.pestanas {
+  display: flex;
+  gap: 8px;
+  border-bottom: 1px solid var(--borde);
+}
+
+.pestana {
+  background: none;
+  border: none;
+  padding: 10px 14px;
+  font: inherit;
+  font-weight: 600;
+  color: var(--suave);
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+}
+
+.pestana.activa {
+  color: var(--principal);
+  border-bottom-color: var(--principal);
+}
+
+main {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 20px 16px 64px;
+}
+
+.ayuda,
+.resumen {
+  color: var(--suave);
+  font-size: 0.92rem;
+}
+
+.caja-filtro {
+  background: var(--tarjeta);
+  border: 1px solid var(--borde);
+  border-radius: var(--radio);
+  padding: 14px;
+  margin: 14px 0;
+}
+
+#buscador {
+  width: 100%;
+  padding: 10px 12px;
+  border: 1px solid var(--borde);
+  border-radius: 10px;
+  font: inherit;
+  background: var(--fondo);
+}
+
+.elegidos,
+.ingredientes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 10px;
+}
+
+.ingredientes {
+  max-height: 190px;
+  overflow: auto;
+}
+
+.chip {
+  border: 1px solid var(--borde);
+  background: var(--fondo);
+  border-radius: 999px;
+  padding: 6px 11px;
+  font: inherit;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.chip.marcado {
+  background: var(--principal);
+  border-color: var(--principal);
+  color: #fff;
+}
+
+.boton-secundario {
+  margin-top: 12px;
+  background: none;
+  border: 1px solid var(--borde);
+  border-radius: 10px;
+  padding: 8px 12px;
+  font: inherit;
+  cursor: pointer;
+}
+
+.rejilla {
+  display: grid;
+  gap: 14px;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  margin-top: 12px;
+}
+
+.tarjeta {
+  background: var(--tarjeta);
+  border: 1px solid var(--borde);
+  border-radius: var(--radio);
+  padding: 16px;
+  box-shadow: 0 6px 18px rgba(80, 60, 40, 0.05);
+}
+
+.tarjeta h3 {
+  margin: 4px 0 10px;
+  font-family: Georgia, serif;
+}
+
+.etiqueta {
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--suave);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 7px 6px;
+  border-bottom: 1px solid var(--borde);
+  vertical-align: top;
+}
+
+th {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--suave);
+}
+
+.macro {
+  display: inline-block;
+  border-radius: 999px;
+  padding: 2px 8px;
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+
+.macro.HC {
+  background: var(--hc);
+  color: var(--hc-t);
+}
+.macro.PR {
+  background: var(--pr);
+  color: var(--pr-t);
+}
+.macro.GR {
+  background: var(--gr);
+  color: var(--gr-t);
+}
+
+a {
+  color: var(--principal);
+}
+
+.boton {
+  display: inline-block;
+  background: var(--principal);
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 14px;
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.tarjeta-enlace {
+  cursor: pointer;
+}
+
+.fechas {
+  margin: 10px 0 0;
+  padding-left: 18px;
+  color: var(--suave);
+  font-size: 0.9rem;
+}
+
+.vacio {
+  margin-top: 20px;
+  color: var(--suave);
+}
