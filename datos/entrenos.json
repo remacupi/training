@@ -1,0 +1,167 @@
+[
+  {
+    "id": "entreno-1",
+    "numero": 1,
+    "titulo": "Entreno 1",
+    "subtitulo": "Sesión 1 · Full Body A",
+    "ejercicios": [
+      {
+        "orden": "P1",
+        "nombre": "Sentarse y levantarse de una silla",
+        "video": "https://www.youtube.com/watch?v=5fcd0pPWLEQ",
+        "tempo": "4 . 4 . 4 . 4",
+        "reps": "4 - 8",
+        "series": "2",
+        "rir": "Esfuerzo bajo / RIR alto",
+        "nota": "Calentamiento"
+      },
+      {
+        "orden": "P2",
+        "nombre": "Movilidad de hombros",
+        "video": "https://www.youtube.com/shorts/uY-qWzSzwr0",
+        "tempo": "Controlado",
+        "reps": "4 - 8",
+        "series": "2",
+        "rir": "Esfuerzo bajo / RIR alto",
+        "nota": "Calentamiento"
+      },
+      {
+        "orden": "A",
+        "nombre": "Sentadilla a silla con mancuerna",
+        "video": "https://www.youtube.com/shorts/5GZxHFqTtnQ",
+        "tempo": "3-1-1-1",
+        "reps": "8 - 12",
+        "series": "2 - 3",
+        "rir": "2"
+      },
+      {
+        "orden": "B",
+        "nombre": "Press de pecho con mancuerna",
+        "video": "https://www.youtube.com/shorts/DfzDjXCO2Nw",
+        "tempo": "3-1-1-1",
+        "reps": "8 - 12",
+        "series": "2 - 3",
+        "rir": "2"
+      },
+      {
+        "orden": "C",
+        "nombre": "Remo con mancuerna apoyado",
+        "video": "https://www.youtube.com/shorts/ZJpUQzz_A_E",
+        "tempo": "3-1-1-1",
+        "reps": "8 - 12",
+        "series": "2 - 3",
+        "rir": "2"
+      },
+      {
+        "orden": "D",
+        "nombre": "Puente de glúteos",
+        "video": "https://www.youtube.com/shorts/BLy7Km090os",
+        "tempo": "2-1-2-1",
+        "reps": "10 - 15",
+        "series": "2 - 3",
+        "rir": "2"
+      },
+      {
+        "orden": "E",
+        "nombre": "Elevaciones laterales con mancuerna",
+        "video": "https://www.youtube.com/shorts/dd9xo-_ahCg",
+        "tempo": "2-1-2-1",
+        "reps": "10 - 15",
+        "series": "2 - 3",
+        "rir": "2"
+      },
+      {
+        "orden": "F",
+        "nombre": "Dead bug",
+        "video": "https://www.youtube.com/shorts/DqLL45uk2Tk",
+        "tempo": "Controlado",
+        "reps": "6 - 10 por lado",
+        "series": "2 - 3",
+        "rir": "2",
+        "nota": "15 repeticiones con 7,5 kg"
+      }
+    ]
+  },
+  {
+    "id": "entreno-2",
+    "numero": 2,
+    "titulo": "Entreno 2",
+    "subtitulo": "Sesión 2 · Full Body B",
+    "ejercicios": [
+      {
+        "orden": "P1",
+        "nombre": "Marcha en el sitio",
+        "video": "https://www.youtube.com/shorts/gchiG1iIMXc",
+        "tempo": "4 . 4 . 4 . 4",
+        "reps": "4 - 8",
+        "series": "2",
+        "rir": "Esfuerzo bajo / RIR alto",
+        "nota": "Calentamiento"
+      },
+      {
+        "orden": "P2",
+        "nombre": "Círculos de brazos",
+        "video": "https://www.youtube.com/watch?v=ZBpRvlkkVQg",
+        "tempo": "Controlado",
+        "reps": "4 - 8",
+        "series": "2",
+        "rir": "Esfuerzo bajo / RIR alto",
+        "nota": "Calentamiento"
+      },
+      {
+        "orden": "A",
+        "nombre": "Sentadilla sumo con mancuerna",
+        "video": "https://www.youtube.com/shorts/4YFyCNBwBwc",
+        "tempo": "3-1-1-1",
+        "reps": "10 - 12 / 15 - 20",
+        "series": "2 - 3",
+        "rir": "2"
+      },
+      {
+        "orden": "B",
+        "nombre": "Press de hombros sentado con mancuerna",
+        "video": "https://www.youtube.com/shorts/sWJoAATDlGM",
+        "tempo": "3-1-1-1",
+        "reps": "8 - 10 / 12 - 16",
+        "series": "2 - 3",
+        "rir": "2"
+      },
+      {
+        "orden": "C",
+        "nombre": "Jalón al pecho con bandas",
+        "video": "https://www.youtube.com/shorts/9q2Ak024ZoM",
+        "tempo": "3-1-1-1",
+        "reps": "8 - 10 / 12 - 16",
+        "series": "2 - 3",
+        "rir": "2"
+      },
+      {
+        "orden": "D",
+        "nombre": "Hip thrust con mancuerna",
+        "video": "https://www.youtube.com/shorts/XZ52CZnPKq4",
+        "tempo": "2-1-2-1",
+        "reps": "10 - 12 / 15 - 20",
+        "series": "2 - 3",
+        "rir": "2"
+      },
+      {
+        "orden": "E",
+        "nombre": "Curl de bíceps",
+        "video": "https://www.youtube.com/shorts/09AYfVFf7pg",
+        "tempo": "Controlado",
+        "reps": "12 - 15 / 15 - 20",
+        "series": "2 - 3",
+        "rir": "2"
+      },
+      {
+        "orden": "F",
+        "nombre": "Extensión de tríceps con banda",
+        "video": "https://www.youtube.com/shorts/RU1OQEo-ToU",
+        "tempo": "Controlado",
+        "reps": "15 - 20",
+        "series": "2 - 3",
+        "rir": "2"
+      }
+    ]
+  }
+]

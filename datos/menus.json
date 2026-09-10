@@ -1,0 +1,820 @@
+[
+  {
+    "id": "almuerzo-1",
+    "comida": "ALMUERZO",
+    "opcion": 1,
+    "items": [
+      {
+        "nombre": "Verdura cocida / ensalada",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Patata",
+        "macro": "HC",
+        "cantidad": "250 gr"
+      },
+      {
+        "nombre": "Pescado blanco",
+        "macro": "PR",
+        "cantidad": "150 gr"
+      },
+      {
+        "nombre": "Aceite de oliva",
+        "macro": "GR",
+        "cantidad": "10 gr"
+      }
+    ]
+  },
+  {
+    "id": "almuerzo-2",
+    "comida": "ALMUERZO",
+    "opcion": 2,
+    "items": [
+      {
+        "nombre": "Verdura cocida",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Boniato",
+        "macro": "HC",
+        "cantidad": "200 gr"
+      },
+      {
+        "nombre": "Filete de ternera",
+        "macro": "PR",
+        "cantidad": "140 gr"
+      },
+      {
+        "nombre": "Aceite de oliva",
+        "macro": "GR",
+        "cantidad": "10 gr"
+      }
+    ]
+  },
+  {
+    "id": "almuerzo-3",
+    "comida": "ALMUERZO",
+    "opcion": 3,
+    "items": [
+      {
+        "nombre": "Verdura",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Arroz",
+        "macro": "HC",
+        "cantidad": "60 gr"
+      },
+      {
+        "nombre": "Pechuga de pollo",
+        "macro": "PR",
+        "cantidad": "150 gr"
+      },
+      {
+        "nombre": "Nueces",
+        "macro": "GR",
+        "cantidad": "15 gr"
+      }
+    ]
+  },
+  {
+    "id": "almuerzo-4",
+    "comida": "ALMUERZO",
+    "opcion": 4,
+    "items": [
+      {
+        "nombre": "Verdura cocida",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Gnocchi",
+        "macro": "HC",
+        "cantidad": "150 gr"
+      },
+      {
+        "nombre": "Solomillo de pavo",
+        "macro": "PR",
+        "cantidad": "150 gr"
+      },
+      {
+        "nombre": "Aceite de oliva",
+        "macro": "GR",
+        "cantidad": "10 gr"
+      }
+    ]
+  },
+  {
+    "id": "almuerzo-5",
+    "comida": "ALMUERZO",
+    "opcion": 5,
+    "items": [
+      {
+        "nombre": "Verdura cocida",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Tortillas de trigo",
+        "macro": "HC",
+        "cantidad": "2 unidades"
+      },
+      {
+        "nombre": "Ternera picada",
+        "macro": "PR",
+        "cantidad": "140 gr"
+      },
+      {
+        "nombre": "Aceite de oliva",
+        "macro": "GR",
+        "cantidad": "10 gr"
+      }
+    ]
+  },
+  {
+    "id": "almuerzo-6",
+    "comida": "ALMUERZO",
+    "opcion": 6,
+    "items": [
+      {
+        "nombre": "Ensalada",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Pasta",
+        "macro": "HC",
+        "cantidad": "60 gr"
+      },
+      {
+        "nombre": "Atún al natural",
+        "macro": "PR",
+        "cantidad": "1 lata grande (100-120 gr escurrido)"
+      },
+      {
+        "nombre": "Pechuga de pavo",
+        "macro": "PR",
+        "cantidad": "60 gr"
+      },
+      {
+        "nombre": "Aceite de oliva",
+        "macro": "GR",
+        "cantidad": "10 gr"
+      }
+    ]
+  },
+  {
+    "id": "almuerzo-7",
+    "comida": "ALMUERZO",
+    "opcion": 7,
+    "items": [
+      {
+        "nombre": "Verdura cocida",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Lentejas",
+        "macro": "HC",
+        "cantidad": "150 gr"
+      },
+      {
+        "nombre": "Huevo",
+        "macro": "PR",
+        "cantidad": "2 unidades"
+      },
+      {
+        "nombre": "Aceite de oliva",
+        "macro": "GR",
+        "cantidad": "10 gr"
+      }
+    ]
+  },
+  {
+    "id": "almuerzo-8",
+    "comida": "ALMUERZO",
+    "opcion": 8,
+    "items": [
+      {
+        "nombre": "Verdura cocida",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Arroz integral",
+        "macro": "HC",
+        "cantidad": "60 gr"
+      },
+      {
+        "nombre": "Lentejas cocidas",
+        "macro": "PR",
+        "cantidad": "100 gr"
+      },
+      {
+        "nombre": "Huevo",
+        "macro": "PR",
+        "cantidad": "1 unidad"
+      },
+      {
+        "nombre": "Aceite de oliva",
+        "macro": "GR",
+        "cantidad": "10 gr"
+      }
+    ]
+  },
+  {
+    "id": "almuerzo-9",
+    "comida": "ALMUERZO",
+    "opcion": 9,
+    "items": [
+      {
+        "nombre": "Verdura cocida",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Arroz",
+        "macro": "HC",
+        "cantidad": "60 gr"
+      },
+      {
+        "nombre": "Pechuga de pollo",
+        "macro": "PR",
+        "cantidad": "150 gr"
+      },
+      {
+        "nombre": "Queso mozzarella light",
+        "macro": "GR",
+        "cantidad": "30 gr"
+      }
+    ]
+  },
+  {
+    "id": "almuerzo-10",
+    "comida": "ALMUERZO",
+    "opcion": 10,
+    "items": [
+      {
+        "nombre": "Crema de verduras casera",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Láminas de pasta",
+        "macro": "HC",
+        "cantidad": "60 gr"
+      },
+      {
+        "nombre": "Ternera picada magra",
+        "macro": "PR",
+        "cantidad": "140 gr"
+      },
+      {
+        "nombre": "Queso mozzarella light",
+        "macro": "PR",
+        "cantidad": "30 gr"
+      },
+      {
+        "nombre": "Tomate triturado",
+        "macro": "GR",
+        "cantidad": "100 gr"
+      }
+    ]
+  },
+  {
+    "id": "almuerzo-11",
+    "comida": "ALMUERZO",
+    "opcion": 11,
+    "items": [
+      {
+        "nombre": "Patata (modo puré)",
+        "macro": "HC",
+        "cantidad": "250 gr"
+      },
+      {
+        "nombre": "Verdura",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Merluza o pescado",
+        "macro": "PR",
+        "cantidad": "120 gr"
+      },
+      {
+        "nombre": "Huevo",
+        "macro": "PR",
+        "cantidad": "1 unidad"
+      },
+      {
+        "nombre": "Aceite de oliva",
+        "macro": "GR",
+        "cantidad": "10 gr"
+      }
+    ]
+  },
+  {
+    "id": "merienda-1",
+    "comida": "MERIENDA",
+    "opcion": 1,
+    "items": [
+      {
+        "nombre": "Fruta",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Granola",
+        "macro": "HC",
+        "cantidad": "30 gr"
+      },
+      {
+        "nombre": "Yogur natural",
+        "macro": "PR",
+        "cantidad": "150 gr"
+      },
+      {
+        "nombre": "Crema de cacahuete",
+        "macro": "GR",
+        "cantidad": "10 gr"
+      }
+    ]
+  },
+  {
+    "id": "merienda-2",
+    "comida": "MERIENDA",
+    "opcion": 2,
+    "items": [
+      {
+        "nombre": "Fruta",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Pan integral",
+        "macro": "HC",
+        "cantidad": "60 gr"
+      },
+      {
+        "nombre": "Jamón serrano",
+        "macro": "PR",
+        "cantidad": "50 gr"
+      },
+      {
+        "nombre": "Aceite de oliva",
+        "macro": "GR",
+        "cantidad": "10 gr"
+      }
+    ]
+  },
+  {
+    "id": "merienda-3",
+    "comida": "MERIENDA",
+    "opcion": 3,
+    "items": [
+      {
+        "nombre": "Fruta",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Cereales tipo cornflakes / arroz inflado / avena",
+        "macro": "HC",
+        "cantidad": "40 gr"
+      },
+      {
+        "nombre": "Yogur griego",
+        "macro": "PR",
+        "cantidad": "150 gr"
+      },
+      {
+        "nombre": "Chocolate 85%",
+        "macro": "GR",
+        "cantidad": "10 gr"
+      }
+    ]
+  },
+  {
+    "id": "merienda-4",
+    "comida": "MERIENDA",
+    "opcion": 4,
+    "items": [
+      {
+        "nombre": "Vegetales",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Bagels",
+        "macro": "HC",
+        "cantidad": "1 unidad"
+      },
+      {
+        "nombre": "Salmón ahumado",
+        "macro": "PR",
+        "cantidad": "50 gr"
+      },
+      {
+        "nombre": "Queso crema light",
+        "macro": "GR",
+        "cantidad": "20 gr"
+      }
+    ]
+  },
+  {
+    "id": "merienda-5",
+    "comida": "MERIENDA",
+    "opcion": 5,
+    "items": [
+      {
+        "nombre": "Tomate natural",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Pan integral",
+        "macro": "HC",
+        "cantidad": "60 gr"
+      },
+      {
+        "nombre": "Atún al natural",
+        "macro": "PR",
+        "cantidad": "100 gr (1 lata grande escurrida)"
+      },
+      {
+        "nombre": "Frutos secos / Semillas de chía",
+        "macro": "GR",
+        "cantidad": "10 gr"
+      }
+    ]
+  },
+  {
+    "id": "merienda-6",
+    "comida": "MERIENDA",
+    "opcion": 6,
+    "items": [
+      {
+        "nombre": "Fruta",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Tortitas de arroz",
+        "macro": "HC",
+        "cantidad": "30 gr (3-4 unidades)"
+      },
+      {
+        "nombre": "Hummus",
+        "macro": "PR",
+        "cantidad": "40 gr"
+      },
+      {
+        "nombre": "Frutos secos / Semillas de chía",
+        "macro": "GR",
+        "cantidad": "15 gr"
+      }
+    ]
+  },
+  {
+    "id": "merienda-7",
+    "comida": "MERIENDA",
+    "opcion": 7,
+    "items": [
+      {
+        "nombre": "Fruta",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Pan integral",
+        "macro": "HC",
+        "cantidad": "60 gr"
+      },
+      {
+        "nombre": "Huevo + claras",
+        "macro": "PR",
+        "cantidad": "2 unidades + 100 ml"
+      },
+      {
+        "nombre": "Frutos secos",
+        "macro": "GR",
+        "cantidad": "10 gr"
+      }
+    ]
+  },
+  {
+    "id": "cena-1",
+    "comida": "CENA",
+    "opcion": 1,
+    "items": [
+      {
+        "nombre": "Arroz",
+        "macro": "HC",
+        "cantidad": "50 gr"
+      },
+      {
+        "nombre": "Verdura",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Pechuga de pollo",
+        "macro": "PR",
+        "cantidad": "140 gr"
+      },
+      {
+        "nombre": "Aceite de oliva",
+        "macro": "GR",
+        "cantidad": "10 gr"
+      }
+    ]
+  },
+  {
+    "id": "cena-2",
+    "comida": "CENA",
+    "opcion": 2,
+    "items": [
+      {
+        "nombre": "Ensalada",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Pan de hamburguesa",
+        "macro": "HC",
+        "cantidad": "1 unidad"
+      },
+      {
+        "nombre": "Hamburguesa de pollo",
+        "macro": "PR",
+        "cantidad": "120 gr"
+      },
+      {
+        "nombre": "Queso mozzarella light",
+        "macro": "GR",
+        "cantidad": "30 gr"
+      }
+    ]
+  },
+  {
+    "id": "cena-3",
+    "comida": "CENA",
+    "opcion": 3,
+    "items": [
+      {
+        "nombre": "Tortillas de trigo",
+        "macro": "HC",
+        "cantidad": "2 unidades"
+      },
+      {
+        "nombre": "Vegetal al gusto",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Ternera picada",
+        "macro": "PR",
+        "cantidad": "130 gr"
+      },
+      {
+        "nombre": "Frutos secos / Semillas de chía",
+        "macro": "GR",
+        "cantidad": "10 gr"
+      }
+    ]
+  },
+  {
+    "id": "cena-4",
+    "comida": "CENA",
+    "opcion": 4,
+    "items": [
+      {
+        "nombre": "Patata",
+        "macro": "HC",
+        "cantidad": "200 gr"
+      },
+      {
+        "nombre": "Verdura",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Pescado blanco",
+        "macro": "PR",
+        "cantidad": "150 gr"
+      },
+      {
+        "nombre": "Aceite de oliva",
+        "macro": "GR",
+        "cantidad": "10 gr"
+      }
+    ]
+  },
+  {
+    "id": "cena-5",
+    "comida": "CENA",
+    "opcion": 5,
+    "items": [
+      {
+        "nombre": "Boniato",
+        "macro": "HC",
+        "cantidad": "180 gr"
+      },
+      {
+        "nombre": "Verdura",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Salmón",
+        "macro": "PR",
+        "cantidad": "120 gr"
+      },
+      {
+        "nombre": "Aceite de oliva",
+        "macro": "GR",
+        "cantidad": "5 gr"
+      }
+    ]
+  },
+  {
+    "id": "cena-6",
+    "comida": "CENA",
+    "opcion": 6,
+    "items": [
+      {
+        "nombre": "Verdura o ensalada",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Garbanzos cocidos",
+        "macro": "HC",
+        "cantidad": "150 gr"
+      },
+      {
+        "nombre": "Sardinas",
+        "macro": "PR",
+        "cantidad": "100 gr"
+      },
+      {
+        "nombre": "Frutos secos",
+        "macro": "GR",
+        "cantidad": "10 gr"
+      }
+    ]
+  },
+  {
+    "id": "cena-7",
+    "comida": "CENA",
+    "opcion": 7,
+    "items": [
+      {
+        "nombre": "Verdura cocida",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Quinoa",
+        "macro": "HC",
+        "cantidad": "50 gr"
+      },
+      {
+        "nombre": "Alubias",
+        "macro": "PR",
+        "cantidad": "100 gr"
+      },
+      {
+        "nombre": "Pechuga de pollo",
+        "macro": "PR",
+        "cantidad": "100 gr"
+      },
+      {
+        "nombre": "Aguacate",
+        "macro": "GR",
+        "cantidad": "30 gr"
+      }
+    ]
+  },
+  {
+    "id": "cena-8",
+    "comida": "CENA",
+    "opcion": 8,
+    "items": [
+      {
+        "nombre": "Patata al horno",
+        "macro": "HC",
+        "cantidad": "250 gr"
+      },
+      {
+        "nombre": "Verdura",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Albóndigas de pollo",
+        "macro": "PR",
+        "cantidad": "150 gr"
+      },
+      {
+        "nombre": "Salsa de tomate casera",
+        "macro": "GR",
+        "cantidad": "100 gr"
+      }
+    ]
+  },
+  {
+    "id": "cena-9",
+    "comida": "CENA",
+    "opcion": 9,
+    "items": [
+      {
+        "nombre": "Arroz",
+        "macro": "HC",
+        "cantidad": "60 gr"
+      },
+      {
+        "nombre": "Verdura",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Pollo o ternera",
+        "macro": "PR",
+        "cantidad": "140 gr"
+      },
+      {
+        "nombre": "Guacamole",
+        "macro": "GR",
+        "cantidad": "30 gr"
+      }
+    ]
+  },
+  {
+    "id": "cena-10",
+    "comida": "CENA",
+    "opcion": 10,
+    "items": [
+      {
+        "nombre": "Base de tortilla de trigo",
+        "macro": "HC",
+        "cantidad": "2 unidades"
+      },
+      {
+        "nombre": "Verdura",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Jamón cocido / pollo",
+        "macro": "PR",
+        "cantidad": "100 gr"
+      },
+      {
+        "nombre": "Huevo",
+        "macro": "PR",
+        "cantidad": "1 unidad"
+      },
+      {
+        "nombre": "Queso mozzarella light",
+        "macro": "GR",
+        "cantidad": "40 gr"
+      }
+    ]
+  },
+  {
+    "id": "cena-11",
+    "comida": "CENA",
+    "opcion": 11,
+    "items": [
+      {
+        "nombre": "Pasta",
+        "macro": "HC",
+        "cantidad": "60 gr"
+      },
+      {
+        "nombre": "Champiñones y cebolla",
+        "macro": "HC",
+        "cantidad": "al gusto"
+      },
+      {
+        "nombre": "Pollo",
+        "macro": "PR",
+        "cantidad": "120 gr"
+      },
+      {
+        "nombre": "Huevo",
+        "macro": "PR",
+        "cantidad": "1 unidad"
+      },
+      {
+        "nombre": "Queso crema light",
+        "macro": "GR",
+        "cantidad": "25 gr"
+      }
+    ]
+  }
+]
