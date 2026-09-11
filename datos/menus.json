@@ -120,7 +120,7 @@
       {
         "nombre": "Tortillas de trigo",
         "macro": "HC",
-        "cantidad": "2 unidades"
+        "cantidad": "2 unidadeses"
       },
       {
         "nombre": "Ternera picada",
@@ -179,7 +179,7 @@
       {
         "nombre": "Huevo",
         "macro": "PR",
-        "cantidad": "2 unidades"
+        "cantidad": "2 unidadeses"
       },
       {
         "nombre": "Aceite de oliva",
@@ -496,7 +496,7 @@
       {
         "nombre": "Huevo + claras",
         "macro": "PR",
-        "cantidad": "2 unidades + 100 ml"
+        "cantidad": "2 unidadeses + 100ml"
       },
       {
         "nombre": "Frutos secos",
@@ -695,10 +695,10 @@
       {
         "nombre": "Tortillas de trigo",
         "macro": "HC",
-        "cantidad": "2 unidades"
+        "cantidad": "2 unidadesesad"
       },
       {
-        "nombre": "Vegetal al gusto",
+        "nombre": "Vegetal",
         "macro": "HC",
         "cantidad": "al gusto"
       },
@@ -889,7 +889,7 @@
       {
         "nombre": "Base de tortilla de trigo",
         "macro": "HC",
-        "cantidad": "2 unidades"
+        "cantidad": "2 unidadeses"
       },
       {
         "nombre": "Verdura",
