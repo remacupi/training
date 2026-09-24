@@ -4,81 +4,89 @@
     "numero": 1,
     "titulo": "Entreno 1",
     "subtitulo": "Sesión 1 · Full Body A",
-    "ejercicios": [
+     "ejercicios": [
       {
         "orden": "P1",
-        "nombre": "Sentarse y levantarse de una silla",
-        "video": "https://youtu.be/5fcd0pPWLEQ?si=jdSWhdpRaSXw_B_O",
-        "tempo": "4 . 4 . 4 . 4",
-        "reps": "4 - 8",
-        "series": "2",
-        "rir": "Esfuerzo bajo / RIR alto",
+        "nombre": "Marcha en el sitio",
+        "video": "https://youtube.com/shorts/gchiG1iIMXc?si=Lo1svVHG7cOc6_kD",
+        "tempo": "5",
+        "reps": "6",
+        "series": "7",
+        "rir": "8",
         "nota": "Calentamiento"
       },
       {
         "orden": "P2",
-        "nombre": "Movilidad de hombros",
-        "video": "https://youtube.com/shorts/uY-qWzSzwr0?si=PoTZ-uhKyldVnKvM",
-        "tempo": "Controlado",
-        "reps": "4 - 8",
-        "series": "2",
-        "rir": "Esfuerzo bajo / RIR alto",
+        "nombre": "Círculos de brazos",
+        "video": "https://youtu.be/ZBpRvlkkVQg?si=NYOrCcAkQ5MawtN1",
+        "tempo": "5",
+        "reps": "6",
+        "series": "7",
+        "rir": "8",
         "nota": "Calentamiento"
       },
       {
-        "orden": "A",
-        "nombre": "Sentadilla a silla con mancuerna",
-        "video": "https://youtube.com/shorts/5GZxHFqTtnQ?si=Yy_jCMvq0LuhOPw1",
-        "tempo": "3-1-1-1",
-        "reps": "8 - 12",
-        "series": "2",
-        "rir": "3 / 2-3 / 2-3 / 2"
+        "orden": "E1",
+        "nombre": "Sentadilla barra",
+        "video": "https://youtube.com/shorts/4YFyCNBwBwc?si=cg2qbZOUCIValv8P",
+        "tempo": "8x3 / 5",
+        "reps": "9x3 / 5",
+        "series": "10x3 / 5",
+        "rir": "10x3 / 6"
       },
       {
-        "orden": "B",
-        "nombre": "Press de pecho con mancuerna",
+        "orden": "E2",
+        "nombre": "Zancada adelante",
+        "video": "https://youtube.com/shorts/ArHjLGYmE5k?si=J6K8m8nh9aCKJpfE",
+        "tempo": "8x3 / 5",
+        "reps": "9x3 / 5",
+        "series": "10x3 / 5",
+        "rir": "10x3 / 6"
+      },
+      {
+        "orden": "E3",
+        "nombre": "Press Pecho Tumbado",
         "video": "https://youtube.com/shorts/DfzDjXCO2Nw?si=sAVZjSJMISraznfW",
-        "tempo": "3-1-1-1",
-        "reps": "8 - 12",
-        "series": "2",
-        "rir": "3 / 2-3 / 2-3 / 2"
+        "tempo": "12x3 / 4",
+        "reps": "13x3 / 5",
+        "series": "14x3 / 6",
+        "rir": "15x3 / 6"
       },
       {
-        "orden": "C",
-        "nombre": "Remo con mancuerna apoyado",
+        "orden": "E4",
+        "nombre": "Remo mancuerna",
         "video": "https://youtube.com/shorts/ZJpUQzz_A_E?si=naLcVqE7bG5nRxgG",
-        "tempo": "3-1-1-1",
-        "reps": "8 - 12",
-        "series": "2",
-        "rir": "3 / 2-3 / 2-3 / 2"
+        "tempo": "12x2 / 3",
+        "reps": "14x2 / 4",
+        "series": "15x2 / 4,5"
+        "rir": "12x3 / 4,5"
       },
       {
-        "orden": "D",
-        "nombre": "Puente de glúteos",
+        "orden": "E5",
+        "nombre": "Puente Gluteos",
         "video": "https://youtube.com/shorts/BLy7Km090os?si=EIdT-fiaQhWhCtdM",
-        "tempo": "2-1-2-1",
-        "reps": "10 - 15",
-        "series": "2",
-        "rir": "3 / 2-3 / 2-3 / 2"
+        "tempo": "12x2 / 3",
+        "reps": "14x2 / 4",
+        "series": "15x3 / 4,5"
+        "rir": "12x3 / 4,5"
       },
       {
-        "orden": "E",
-        "nombre": "Elevaciones laterales con mancuerna",
-        "video": "https://youtube.com/shorts/dd9xo-_ahCg?si=oGHzTOtKO2EnrCgo",
-        "tempo": "2-1-2-1",
-        "reps": "10 - 15",
-        "series": "2",
-        "rir": "3 / 2-3 / 2-3 / 2"
-      },
-      {
-        "orden": "F",
+        "orden": "E6",
         "nombre": "Dead bug",
         "video": "https://youtube.com/shorts/DqLL45uk2Tk?si=22eT1McCPQjmiA07",
-        "tempo": "Controlado",
-        "reps": "6 - 10 por lado",
-        "series": "2",
-        "rir": "3 / 2-3 / 2-3 / 2",
-        "nota": "15 repeticiones con 7,5 kg"
+        "tempo": "8x2",
+        "reps": "9x2",
+        "series": "10x2",
+        "rir": "10x2"
+      },
+      {
+        "orden": "E7",
+        "nombre": "Plancha",
+        "video": "https://youtube.com/shorts/ysX1CpHKGCo?si=iPhv1nAzgNRJiAUG",
+        "tempo": "20' - 22'",
+        "reps": "24' - 26' ",
+        "series": "28'",
+        "rir": "30'"
       }
     ]
   },
@@ -92,75 +100,84 @@
         "orden": "P1",
         "nombre": "Marcha en el sitio",
         "video": "https://youtube.com/shorts/gchiG1iIMXc?si=Lo1svVHG7cOc6_kD",
-        "tempo": "4 . 4 . 4 . 4",
-        "reps": "4 - 8",
-        "series": "2",
-        "rir": "Esfuerzo bajo / RIR alto",
+        "tempo": "5",
+        "reps": "6",
+        "series": "7",
+        "rir": "8",
         "nota": "Calentamiento"
       },
       {
         "orden": "P2",
         "nombre": "Círculos de brazos",
         "video": "https://youtu.be/ZBpRvlkkVQg?si=NYOrCcAkQ5MawtN1",
-        "tempo": "Controlado",
-        "reps": "4 - 8",
-        "series": "2",
-        "rir": "Esfuerzo bajo / RIR alto",
+        "tempo": "5",
+        "reps": "6",
+        "series": "7",
+        "rir": "8",
         "nota": "Calentamiento"
       },
       {
-        "orden": "A",
-        "nombre": "Sentadilla sumo con mancuerna",
-        "video": "https://youtube.com/shorts/4YFyCNBwBwc?si=cg2qbZOUCIValv8P",
-        "tempo": "3-1-1-1",
-        "reps": "10 - 12 / 15 - 20",
-        "series": "2",
-        "rir": "3 / 2-3 / 2-3 / 2"
+        "orden": "E1",
+        "nombre": "Zancada Atras",
+        "video": "https://youtube.com/shorts/umuACQ9Ks5c?si=TOMu0Hb23x_CFK6f",
+        "tempo": "8x3 / 5",
+        "reps": "9x3 / 5",
+        "series": "10x3 / 5",
+        "rir": "10x3 / 6"
       },
       {
-        "orden": "B",
-        "nombre": "Press de hombros sentado con mancuerna",
-        "video": "https://youtube.com/shorts/sWJoAATDlGM?si=e-_ozgcpNXuT4Fu7",
-        "tempo": "3-1-1-1",
-        "reps": "8 - 10 / 12 - 16",
-        "series": "2",
-        "rir": "3 / 2-3 / 2-3 / 2"
+        "orden": "E2",
+        "nombre": "Peso muerto",
+        "video": "https://youtube.com/shorts/SAdzug-v7D0?si=oEdqjFK9c58YQHS-",
+        "tempo": "8x3 / 5",
+        "reps": "9x3 / 5",
+        "series": "10x3 / 5",
+        "rir": "10x3 / 6"
       },
       {
-        "orden": "C",
-        "nombre": "Jalón al pecho con bandas",
-        "video": "https://youtube.com/shorts/9q2Ak024ZoM?si=xIg7fH9-LtkLWsTz",
-        "tempo": "3-1-1-1",
-        "reps": "8 - 10 / 12 - 16",
-        "series": "2",
-        "rir": "3 / 2-3 / 2-3 / 2"
+        "orden": "E3",
+        "nombre": "Elevaciones Laterales",
+        "video": "https://youtube.com/shorts/8c5bAVYv6RU?si=tMYE44UbFCSFlHOb",
+        "tempo": "12x3 / 2",
+        "reps": "13x3 / 2",
+        "series": "14x3 / 2,5",
+        "rir": "15x3 / 3"
       },
       {
-        "orden": "D",
-        "nombre": "Hip thrust con mancuerna",
-        "video": "https://youtube.com/shorts/XZ52CZnPKq4?si=bR5_cmeIiADXmcnD",
-        "tempo": "2-1-2-1",
-        "reps": "10 - 12 / 15 - 20",
-        "series": "2",
-        "rir": "3 / 2-3 / 2-3 / 2"
+        "orden": "E4",
+        "nombre": "Step Elevación rodilla",
+        "video": "https://youtube.com/shorts/cBNudYbUUdQ?si=s7GfwdiCyaWm8skv",
+        "tempo": "12x2",
+        "reps": "13x2",
+        "series": "14x2",
+        "rir": "15x2"
       },
       {
-        "orden": "E",
-        "nombre": "Curl de bíceps",
+        "orden": "E5",
+        "nombre": "Remo con goma",
+        "video": "https://youtube.com/shorts/d33v6e3bwuY?si=VZXma1tds12-MfFD",
+        "tempo": "12x2",
+        "reps": "13x2",
+        "series": "14x2",
+        "rir": "15x2"
+      },
+      {
+        "orden": "E6",
+        "nombre": "Biceps",
         "video": "https://youtube.com/shorts/09AYfVFf7pg?si=9MiYkRue20oZJknF",
-        "tempo": "Controlado",
-        "reps": "12 - 15 / 15 - 20",
-        "series": "2",
-        "rir": "3 / 2-3 / 2-3 / 2"
+        "tempo": "8x2 / 5",
+        "reps": "9x2 / 5",
+        "series": "10x2 / 5",
+        "rir": "10x2 / 6"
       },
       {
-        "orden": "F",
-        "nombre": "Extensión de tríceps con banda",
-        "video": "https://youtube.com/shorts/RU1OQEo-ToU?si=1LF5ENfcCJt5VTVq",
-        "tempo": "Controlado",
-        "reps": "15 - 20",
-        "series": "2",
-        "rir": "3 / 2-3 / 2-3 / 2"
+        "orden": "E7",
+        "nombre": "Triceps de pie banda",
+        "video": "https://youtube.com/shorts/dgsVvNumVKc?si=Kd5oujX73nrDeE-w",
+        "tempo": "20' - 22'",
+        "reps": "24' - 26' ",
+        "series": "28'",
+        "rir": "30'"
       }
     ]
   }
