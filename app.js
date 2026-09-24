@@ -151,7 +151,7 @@ function pintarDetalle(id) {
     <p class="ayuda">${esc(e.subtitulo)}</p>
     <div class="tarjeta" style="margin-top:12px;overflow-x:auto">
       <table>
-        <thead><tr><th>Orden</th><th>Ejercicio</th><th>Tempo</th><th>Reps</th><th>Series</th><th>RIR</th><th>Vídeo</th></tr></thead>
+        <thead><tr><th>Orden</th><th>Ejercicio</th><th>S3-S4</th><th>S5-S6</th><th>S7-S8</th><th>S9-S10</th><th>Vídeo</th></tr></thead>
         <tbody>
           ${e.ejercicios
             .map(
